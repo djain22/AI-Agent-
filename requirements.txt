@@ -1,0 +1,24 @@
+# AI / LLM framework
+langchain
+langchain-community
+langchain-anthropic
+langgraph
+anthropic
+
+# Backend API
+fastapi
+uvicorn
+
+# Sleeper API + HTTP requests
+requests
+
+# Data handling
+pydantic
+python-dotenv
+pandas
+numpy
+
+# Optional but recommended (dev + debugging)
+pytest
+black
+isort
